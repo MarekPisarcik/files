@@ -1,0 +1,10 @@
+
+        Toto je novy textovy subor vytvoreny pomocou kodu v pythone. 
+
+        Subor bol vytvoreny pomocou kodu. 
+
+        Data: 1211151464618 
+
+        Data2: ldvmvkmdflvmkdfmvkfmvldfmflvmdfvmlfdvfdmvriirgrgie 
+
+        
